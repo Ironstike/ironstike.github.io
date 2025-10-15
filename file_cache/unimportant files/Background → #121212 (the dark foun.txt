@@ -1,0 +1,22 @@
+Background → #121212 (the dark foundation, the void everything lives on)
+
+Surface (cards, section boxes, containers) → #1E1E1E (slightly lighter so you can tell things apart)
+
+Primary → #90CAF9 (your main accent: buttons, links, highlights, active states)
+
+On Primary (text/icons on primary) → #0D47A1 or just plain black at 80% opacity (contrast matters here)
+
+Secondary → #26A69A (secondary accents: chips, secondary buttons, supporting icons)
+
+On Secondary → #000000 with ~80% opacity (so teal text/icons don’t vanish)
+
+Error → #CF6679 (Google’s standard dark theme error pink-red, keep it consistent)
+
+On Error → #000000 or near-black text for readability
+
+Text / On Surface → #E0E0E0 (general body text, so it’s not blinding pure white)
+
+On Background → same as on-surface, since background/surface tones are siblings
+
+
+17171f

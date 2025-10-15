@@ -1,0 +1,170 @@
+body {
+font-family: 'Roboto', sans-serif;
+background: #121212; 
+margin: 0;
+color: white;
+transition: transform 0.3s ease-in-out;
+}
+
+section {
+background-color: #1E1E1E;
+width: 50%;
+margin: 10px auto 10px 90px;
+padding: 5px 5% ;
+border-radius: 16px;
+color: white;
+
+}
+
+.logo {
+width: 100px;
+}
+
+a {
+  color: #0D47A1;
+  text-decoration: underline;
+}
+
+a:hover:not(.btn) {
+  color: white;
+}
+
+/*sidebar*/
+aside {
+color: white;
+background-color: #1E1E1E;
+float: left;
+width: 70px;
+height: 100vh;
+position: fixed;
+left: 0;
+top: 0;
+overflow-x: hidden;
+text-align: center;
+}
+
+aside a {
+  color: white;
+  text-decoration: none;
+}
+
+aside a button {
+background-color: transparent;
+width: 50px;
+height; 10px;
+border: 0px;
+border-radius: 20px;
+margin-top: 20px;
+}
+
+.selected button {
+background-color: #0D47A1;
+}
+
+.selected a {
+color: #0D47A1;
+ text-decoration: none;
+}
+
+
+aside button:hover {
+background-color: #ffffff20;
+cursor: pointer;
+}
+
+.selected  button:hover {
+background-color: #1f5ec2;
+cursor: pointer;
+}
+/*sidebar*/
+
+/*body*/
+.splash-text {
+display: inline-block;
+background-color: #0D47A1;
+color: white;
+border-radius: 8px;
+padding: 5px 10px; 
+font-size: 18px;
+line-height: 1.2;
+margin: 0 5px;
+vertical-align: middle;
+height: auto;
+position: absolute;
+transform: rotate(-10deg);
+top: 67px;
+left: 
+text-align: center;
+}
+
+
+/*cards*/
+main div {
+display: inline-block;
+background-color: #1E1E1E;
+width: 500px;
+height: auto;
+margin: 10px auto 10px 10px;
+padding: 0px 0px 20px 0px;
+border-radius: 16px;
+color: white;
+position: relative;
+left: 80px;
+top: auto;
+}
+
+main div img {
+width: inherit;
+border-radius: inherit;
+margin: 0;
+}
+
+main div p, h3, .btn {
+position: relative;
+left: 10px;
+padding-right: 5px; 
+
+}
+
+.social {
+width: 30px; 
+height: auto;
+border: 0;
+border-radius: 0px;
+margin: 0px 8px 10px 8px;
+
+}
+
+.circle {
+border-radius: 40px;
+}
+
+/*cards*/
+
+.btn {
+border: 0;
+border-radius: 40px;
+font-size: 1.2em;
+background-color: #90CAF9;
+color: #D47A1;
+padding: 15px 20px;
+text-decoration: none;
+font-weight: 500;
+transition: border-radius 0.2s cubic-bezier(0.2, 0, 0, 1);
+text-align: center
+vertical-align: middle;
+}
+.btn:hover{
+color: #D47A1;
+}
+
+.btn:focus {
+border: 0;
+border-radius: 10px;
+font-size: 1.2em;
+background-color: #90CAF9;
+color: #D47A1;
+padding: 15px 21px;
+text-decoration: none;
+font-weight: 400;
+}
