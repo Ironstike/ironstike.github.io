@@ -33,11 +33,10 @@ a:hover:not(.btn) {
 aside {
 color: white;
 background-color: #1E1E1E;
-float: left;
 width: 70px;
 height: 100vh;
 position: fixed;
-left: 0;
+
 
 overflow-x: hidden;
 text-align: center;
@@ -170,7 +169,8 @@ font-weight: 400;
 }
 
 @media (min-width: 768px) {aside {
-top: 0;} }
+top: 0;  left: 0;  float: left;
+} }
 
 @media (max-width: 767px) {
 
@@ -198,12 +198,12 @@ display: flex;
 flex-direction: column;
 align-items: center;
 justify-content: center;
-color: white;
+align-items: center;color: white;
 text-decoration: none;
 width: 10%;
-margin-left: 8%;
-margin-right: 7%;
-
+margin-left: 20%;
+/*margin-right: 0%;*/
+text-align: center;
 }
 
 aside a button {
