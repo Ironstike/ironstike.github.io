@@ -172,7 +172,7 @@ font-weight: 400;
 top: 0;  left: 0;  float: left;
 } }
 
-@media (max-width: 767px) {
+@media screen and (max-width: 767px) {
 
 aside {
 position: fixed !important;
@@ -191,19 +191,19 @@ aside nav {
 display: grid;
 grid-template-columns: repeat(4, 1fr);
 height: 100%;
+width: 100%;
 }
 
 aside a {
 display: flex;
 flex-direction: column;
-align-items: center;
 justify-content: center;
-align-items: center;color: white;
+align-items: center;
+color: white;
 text-decoration: none;
-width: 10%;
-margin-left: 20%;
-/*margin-right: 0%;*/
 text-align: center;
+width: 100%;
+margin: 0;
 }
 
 aside a button {
@@ -221,7 +221,7 @@ background-color: #0D47A1;
 
 .selected a {
 color: #0D47A1;
- text-decoration: none;
+text-decoration: none;
 }
 
 
@@ -237,8 +237,10 @@ cursor: pointer;
 
 
 aside a img {
-  width: 24px;
-  height: auto;
+width: 24px;
+height: auto;
+margin: 0 auto;
+display: block;
 }
 
 
