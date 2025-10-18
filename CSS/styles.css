@@ -97,34 +97,6 @@ text-align: center;
 }
 
 
-/*cards*/
-main div {
-display: inline-block;
-background-color: #1E1E1E;
-width: 500px;
-height: auto;
-margin: 10px auto 10px 10px;
-padding: 0px 0px 20px 0px;
-border-radius: 16px;
-color: white;
-position: relative;
-left: 80px;
-top: auto;
-}
-
-main div img {
-width: inherit;
-border-radius: inherit;
-margin: 0;
-}
-
-main div p, h3, .btn {
-position: relative;
-left: 10px;
-padding-right: 5px; 
-
-}
-
 .social {
 width: 30px; 
 height: auto;
@@ -137,8 +109,6 @@ margin: 0px 8px 10px 8px;
 .circle {
 border-radius: 40px;
 }
-
-/*cards*/
 
 .btn {
 border: 0;
@@ -168,12 +138,39 @@ text-decoration: none;
 font-weight: 400;
 }
 
-@media (min-width: 768px) {aside {
+@media screen and (min-width: 768px) {
+aside {
 top: 0;  left: 0;  float: left;
-} }
+}
+
+/*cards*/
+main div {
+display: inline-block;
+background-color: #1E1E1E;
+width: 500px;
+height: auto;
+margin: 10px auto 10px 10px;
+padding: 0px 0px 20px 0px;
+border-radius: 16px;
+color: white;
+position: relative;
+left: 80px;
+top: auto;
+}
+
+main div p, h3, .btn {
+position: relative;
+left: 10px;
+padding-right: 5px; 
+
+}
+/*cards*/
+
+ }
 
 @media screen and (max-width: 767px) {
 
+/*navbar*/
 aside {
 position: fixed !important;
 bottom: 0 !important;
@@ -224,7 +221,6 @@ color: #0D47A1;
 text-decoration: none;
 }
 
-
 aside button:hover {
 background-color: #ffffff20;
 cursor: pointer;
@@ -235,13 +231,54 @@ background-color: #1f5ec2;
 cursor: pointer;
 }
 
-
 aside a img {
 width: 24px;
 height: auto;
 margin: 0 auto;
 display: block;
 }
+/*navbar*/
+
+section {
+background-color: #1E1E1E;
+width: 80%;
+margin: 10px 5%;
+padding: 5px 5%;
+border-radius: 16px;
+color: white;
+
+}
+
+footer {
+margin-bottom: 100px;
+}
+
+main div {
+display: inline-block;
+background-color: #1E1E1E;
+width: 90%;
+height: auto;
+margin: 10px 5%;
+padding: 0px 0px 20px 0px;
+border-radius: 16px;
+color: white;
+position: relative;
+/*left: 80px;*/
+top: auto;
+}
+
+}
+
+main div img {
+width: inherit;
+border-radius: inherit;
+margin: 0;
+}
 
 
+main div p, h3, .btn {
+position: relative;
+left: 0px;
+padding-right: 10px; 
+padding-left: 10px;
 }

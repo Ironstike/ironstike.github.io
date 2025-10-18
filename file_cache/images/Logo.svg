@@ -1,1 +1,99 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="37.8526" height="23.91738" viewBox="0,0,37.8526,23.91738"><g transform="translate(-221.07371,-168.0567)"><g stroke="none" stroke-miterlimit="10"><g stroke-width="0"><path d="M221.07372,168.0567h8.22014l4.71256,13.46161l5.99359,-13.46159l5.99359,13.4616l4.71257,-13.4616h8.22014l-8.33084,23.79736l0.03974,0.08925h-21.27038l0.03974,-0.08926z" fill="#ffffff"/><path d="M240.09079,188.35332l4.27853,3.62076h-8.55705z" fill="#001a4a"/></g><g><path d="M234.17029,191.19773c-1.29749,0 -2.34931,-1.12035 -2.34931,-2.50237v-5.7174c0,-1.38202 1.05182,-2.50237 2.34931,-2.50237h19.92862c1.29749,0 2.34931,1.12035 2.34931,2.50237v5.7174c0,1.38202 -1.05182,2.50237 -2.34931,2.50237z" fill="#0099ff" stroke-width="0"/><text transform="translate(233.4772,188.47098) scale(0.2061,0.21953)" font-size="40" xml:space="preserve" fill="#001a4a" stroke-width="1" font-family="Roboto, sans-serif" font-weight="600" text-anchor="start"><tspan x="0" dy="0">strike</tspan></text></g><g><path d="M226.05415,179.5244c-1.38202,0 -2.50237,-1.12035 -2.50237,-2.50237v-5.7174c0,-1.38202 1.12035,-2.50237 2.50237,-2.50237h14.66594c1.38202,0 2.50237,1.12035 2.50237,2.50237v5.7174c0,1.38202 -1.12035,2.50237 -2.50237,2.50237z" fill="#0099ff" stroke-width="0"/><text transform="translate(225.42709,176.79766) scale(0.21953,0.21953)" font-size="40" xml:space="preserve" fill="#001a4a" stroke-width="1" font-family="Roboto, sans-serif" font-weight="600" text-anchor="start"><tspan x="0" dy="0">Iron</tspan></text></g></g></g></svg><!--rotationCenter:18.926285000000007:11.943299999999994-->
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="37.8526"
+   height="23.91738"
+   viewBox="0,0,37.8526,23.91738"
+   id="svg6"
+   sodipodi:docname="Logo.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="30.730792"
+     inkscape:cx="18.93866"
+     inkscape:cy="14.561942"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g5" />
+  <g
+     transform="translate(-221.07371,-168.0567)"
+     id="g6">
+    <g
+       stroke="none"
+       stroke-miterlimit="10"
+       id="g5">
+      <g
+         stroke-width="0"
+         id="g2">
+        <path
+           d="M221.07372,168.0567h8.22014l4.71256,13.46161l5.99359,-13.46159l5.99359,13.4616l4.71257,-13.4616h8.22014l-8.33084,23.79736l0.03974,0.08925h-21.27038l0.03974,-0.08926z"
+           fill="#ffffff"
+           id="path1" />
+        <path
+           d="M240.09079,188.35332l4.27853,3.62076h-8.55705z"
+           fill="#001a4a"
+           id="path2" />
+      </g>
+      <g
+         id="g3">
+        <path
+           d="M234.17029,191.19773c-1.29749,0 -2.34931,-1.12035 -2.34931,-2.50237v-5.7174c0,-1.38202 1.05182,-2.50237 2.34931,-2.50237h19.92862c1.29749,0 2.34931,1.12035 2.34931,2.50237v5.7174c0,1.38202 -1.05182,2.50237 -2.34931,2.50237z"
+           fill="#0099ff"
+           stroke-width="0"
+           id="path3" />
+        <text
+           transform="translate(233.4772,188.47098) scale(0.2061,0.21953)"
+           font-size="40"
+           xml:space="preserve"
+           fill="#001a4a"
+           stroke-width="1"
+           font-family="Roboto, sans-serif"
+           font-weight="600"
+           text-anchor="start"
+           id="text3"><tspan
+             x="0"
+             dy="0"
+             id="tspan3">strike</tspan></text>
+      </g>
+      <g
+         id="g4">
+        <path
+           d="M226.05415,179.5244c-1.38202,0 -2.50237,-1.12035 -2.50237,-2.50237v-5.7174c0,-1.38202 1.12035,-2.50237 2.50237,-2.50237h14.66594c1.38202,0 2.50237,1.12035 2.50237,2.50237v5.7174c0,1.38202 -1.12035,2.50237 -2.50237,2.50237z"
+           fill="#0099ff"
+           stroke-width="0"
+           id="path4" />
+        <text
+           transform="translate(225.42709,176.79766) scale(0.21953,0.21953)"
+           font-size="40"
+           xml:space="preserve"
+           fill="#001a4a"
+           stroke-width="1"
+           font-family="Roboto, sans-serif"
+           font-weight="600"
+           text-anchor="start"
+           id="text4"><tspan
+             x="0"
+             dy="0"
+             id="tspan4">Iron</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
+<!--rotationCenter:18.926285000000007:11.943299999999994-->
+
