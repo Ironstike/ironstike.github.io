@@ -96,6 +96,23 @@ left:
 text-align: center;
 }
 
+.gallery {
+ display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 12px;
+  padding: 10px ;
+  padding-left: 90px;
+}
+
+.img {
+   width: auto;
+  height: auto;
+  max-width: 400px;  border-radius: 16px;
+  display: block;
+margin: 10px;
+}
 
 .social {
 width: 30px; 
@@ -186,7 +203,7 @@ z-index: 1000;
 
 aside nav {
 display: grid;
-grid-template-columns: repeat(4, 1fr);
+grid-template-columns: repeat(5, 1fr);
 height: 100%;
 width: 100%;
 }
@@ -256,7 +273,7 @@ margin-bottom: 100px;
 main div {
 display: inline-block;
 background-color: #1E1E1E;
-width: 90%;
+width: 300px;
 height: auto;
 margin: 10px 5%;
 padding: 0px 0px 20px 0px;
@@ -270,7 +287,7 @@ top: auto;
 }
 
 main div img {
-width: inherit;
+width: 100%;
 border-radius: inherit;
 margin: 0;
 }
